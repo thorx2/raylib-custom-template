@@ -8,5 +8,6 @@
 * Checkout this template (assuming you already have Git/Github installed)
 * Download the Raylib Framework from [here](https://github.com/raysan5/raylib/releases) assuming you are building on the windows platform choose either **win32_msvc16.zip** or **win64_msvc16.zip** based of your target architecture preferences.
 * Unzip the zip file and search for the **raylib.lib** file and place the same inside the **deps** folder of the checkout repo.
+* Place the include header files within the include folder found at the root alongside the src folder of the repo
 * Open with VSCode here on the folder which contains the CMakeLists.txt (Tools should auto detect an guide you through the rest of the process)
 * Profit
